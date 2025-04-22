@@ -3,3 +3,5 @@ Placement Dashboard is a centralized platform designed to track and manage stude
 
 
 <a href="https://github.com/deepakgupta-D3/Placement-Dashboard/blob/main/P-Dashboard-img.png">Dashboard Image</a>
+
+<a href="https://app.powerbi.com/groups/me/reports/14dbf374-fb6e-4a68-9e1f-b8140a253cb9/adec512072684bf3b63c?experience=power-bi">Check My Dashboard<a/>
